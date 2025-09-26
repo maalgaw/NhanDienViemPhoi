@@ -95,6 +95,6 @@ Thêm các ảnh chụp màn hình như:
 **Trần Quang Lâm**  
 - Khoa: Công nghệ Thông tin, Đại học Đại Nam  
 - Mã sinh viên: 1771020408  
-- Lớp: CNTT17-11  
+- Lớp: CNTT17-12  
 
 © 2025 Đại học Đại Nam – Môn: Nhập môn học máy
